@@ -6,9 +6,3 @@
 <main class='bg-primary w-screen h-screen text-white'>
     <slot/>
 </main>
-
-<style>
-    body {
-        font-family: "Inter";
-    }
-</style>
