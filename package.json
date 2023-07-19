@@ -37,6 +37,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/inter": "^5.0.5"
+		"@fontsource/inter": "^5.0.5",
+		"countup.js": "^2.7.0"
 	}
 }
