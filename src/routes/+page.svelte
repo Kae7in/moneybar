@@ -1,6 +1,9 @@
 <script>
-    let name = 'Kaelin'
+	import Money from "./money.svelte";
 </script>
 
-<h1>Welcome {name}</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class='w-full h-full flex items-center'>
+    <div class='w-full flex place-content-center'>
+        <Money money={561.39} />
+    </div>
+</div>
